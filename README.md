@@ -11,3 +11,5 @@ A análise traz:
 - Consoles com maiores vendas de jogos;
 - Distribuição percentual das vendas Globais de jogos por região;
 - Insights e Conclusões
+
+[Base de dados utilizada](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset/data?select=Video_Games_Sales_as_at_22_Dec_2016.csv)
