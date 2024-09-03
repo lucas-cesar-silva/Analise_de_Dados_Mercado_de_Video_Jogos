@@ -1,4 +1,4 @@
-# Analise de Dados Mercado de Video Jogos
+# Analise de Dados Mercado de Videogames
 Esta análise tem como objetivo demonstrar o desempenho das vendas de videogames em mídia física desde o seu lançamento até dezembro de 2016.
 
 A análise inclui:
